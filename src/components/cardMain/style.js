@@ -2,7 +2,7 @@ import { StyleSheet } from 'react-native';
 import { cores } from '../../utils/Constants';
 
 export default styles = StyleSheet.create({
-    
+
     containerCard: {
         width: '85%',
         alignSelf: 'center',
@@ -19,5 +19,18 @@ export default styles = StyleSheet.create({
         borderColor: cores.cinza,
         marginVertical: 10,
         padding: 10
+    },
+    txtPurple: {
+        fontSize: 14,
+        color: cores.roxo
+    },
+    img: {
+        height:60,
+        width:60,
+        borderRadius: 50,
+        alignItems:'flex-end',
+        bottom: '5%',
+        marginRight: '5%'
+
     }
 })

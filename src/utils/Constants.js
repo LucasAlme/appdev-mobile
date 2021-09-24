@@ -6,7 +6,8 @@ const cores = {
     cinzaEscuro: "#707070",
     vermelho: "#FF0000",
     preto: "#000000",
-    vermelho: "#D90B1C"
+    vermelho: "#D90B1C",
+    roxo: "#8e4dff"
 }
 
 
